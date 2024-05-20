@@ -1,3 +1,3 @@
 [submodule "dukereader"]
 	path = dukereader
-	url = git@github.com:jpoles1/dukereader.git
+	url = https://github.com/jpoles1/dukereader.git
